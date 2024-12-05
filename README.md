@@ -25,4 +25,7 @@ This  arbitrage bot built on the Solana blockchain using the Jupiter aggregator.
 ## 📞 Contact Info
 
 ### Telegram: [enlomy](https://t.me/enlomy)
-### Discord: [enlomy](https://discordapp.com/users/1074553493974691840)
+
+## 🍵 Tip
+
+### If you are intereseted in my projects, please 🔗fork or give me ⭐star
